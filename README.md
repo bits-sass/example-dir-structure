@@ -20,7 +20,7 @@ sass
 ├── core
 |   ├── components
 |   └── utils
-├── mixins
+├── helpers
 ├── theme
 |   ├── components
 |   └── utils

@@ -2,6 +2,8 @@
    Main file which imports all the functionality.
    ========================================================================== */
 
+
+
 /* Variables
    ========================================================================== */
 
@@ -13,9 +15,9 @@
 
 // @import "variables/base/…";
 
-/* Mixins */
+/* Helpers */
 
-// @import "variables/mixins/…";
+// @import "variables/helpers/…";
 
 /* Components */
 
@@ -25,16 +27,20 @@
 
 // @import "variables/utils/…";
 
-/* Mixins
+
+
+/* Helpers
    ========================================================================== */
 
 /* Stand-alone packages */
 
 // @import "../bower_components/…";
 
-/* App-specific mixins */
+/* App-specific helpers */
 
-// @import "mixins/…";
+// @import "helpers/…";
+
+
 
 /* Base styles
    ========================================================================== */
@@ -51,6 +57,8 @@
 
 // @import "base/…";
 
+
+
 /* Utilities
    ========================================================================== */
 
@@ -65,6 +73,8 @@
 /* Theme */
 
 // @import "theme/utils/…";
+
+
 
 /* Components
    ========================================================================== */
